@@ -5,4 +5,6 @@
 
 ---
 
-[推荐使用Fastft,该项目不再维护] (https://github.com/AlfredThor/fastft)
+## **[推荐使用Fastft,该项目不再维护]([https://github.com/AlfredThor/Encipher](https://github.com/AlfredThor/fastft))**
+
+---
